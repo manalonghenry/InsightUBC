@@ -40,7 +40,3 @@ If you are curious, some of these commands are actually shortcuts defined in [pa
 ## Running and testing from an IDE
 
 IntelliJ Ultimate should be automatically configured the first time you open the project (IntelliJ Ultimate is a free download through the [JetBrains student program](https://www.jetbrains.com/community/education/#students/)).
-
-### Important Notes
-
-Unfortunately, there are bugs in our code. Additionally, our frontend is not fully functional.
