@@ -1,0 +1,18 @@
+{
+	"title": "order key not in columns",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_instructor": "cronk*"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_year"
+			],
+			"ORDER": "sections_id"
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

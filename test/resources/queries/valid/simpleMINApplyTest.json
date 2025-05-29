@@ -1,0 +1,243 @@
+{
+	"title": "simpleMINApplyTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"overallMIN"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"overallMIN": {
+						"MIN": "sections_avg"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_title": "comptn, progrmng",
+			"overallMIN": 67.79
+		},
+		{
+			"sections_title": "model comptn",
+			"overallMIN": 67.13
+		},
+		{
+			"sections_title": "sftwr constructn",
+			"overallMIN": 68.13
+		},
+		{
+			"sections_title": "intro comp sys",
+			"overallMIN": 64.62
+		},
+		{
+			"sections_title": "basic alg&data",
+			"overallMIN": 65.1
+		},
+		{
+			"sections_title": "dta&alg elec eng",
+			"overallMIN": 72.4
+		},
+		{
+			"sections_title": "basics comp syst",
+			"overallMIN": 67.91
+		},
+		{
+			"sections_title": "comptng life sci",
+			"overallMIN": 71
+		},
+		{
+			"sections_title": "num comp alg prb",
+			"overallMIN": 68.64
+		},
+		{
+			"sections_title": "num approx/discr",
+			"overallMIN": 68.35
+		},
+		{
+			"sections_title": "intr rel databse",
+			"overallMIN": 71.89
+		},
+		{
+			"sections_title": "intr sftwr eng",
+			"overallMIN": 72.27
+		},
+		{
+			"sections_title": "programmng langs",
+			"overallMIN": 72.83
+		},
+		{
+			"sections_title": "func & logic prg",
+			"overallMIN": 76.52
+		},
+		{
+			"sections_title": "comp hard&os",
+			"overallMIN": 70.46
+		},
+		{
+			"sections_title": "comp graphics",
+			"overallMIN": 67.85
+		},
+		{
+			"sections_title": "internet comp",
+			"overallMIN": 68.54
+		},
+		{
+			"sections_title": "softwr eng proj",
+			"overallMIN": 78.93
+		},
+		{
+			"sections_title": "intr alg dsgn&an",
+			"overallMIN": 66.34
+		},
+		{
+			"sections_title": "artificial intel",
+			"overallMIN": 67.48
+		},
+		{
+			"sections_title": "machine lrn mine",
+			"overallMIN": 68.4
+		},
+		{
+			"sections_title": "hum-com interact",
+			"overallMIN": 73.3
+		},
+		{
+			"sections_title": "adv rel databse",
+			"overallMIN": 68.76
+		},
+		{
+			"sections_title": "adv software eng",
+			"overallMIN": 74.04
+		},
+		{
+			"sections_title": "compiler constrc",
+			"overallMIN": 72.24
+		},
+		{
+			"sections_title": "adv opertng sysm",
+			"overallMIN": 68.79
+		},
+		{
+			"sections_title": "distrbt'd systms",
+			"overallMIN": 71.75
+		},
+		{
+			"sections_title": "parallel comput",
+			"overallMIN": 75.61
+		},
+		{
+			"sections_title": "adv alg dsgn&anl",
+			"overallMIN": 68.77
+		},
+		{
+			"sections_title": "theory comptg",
+			"overallMIN": 69.47
+		},
+		{
+			"sections_title": "intel systems",
+			"overallMIN": 66.13
+		},
+		{
+			"sections_title": "computer vision",
+			"overallMIN": 71.8
+		},
+		{
+			"sections_title": "comptr & society",
+			"overallMIN": 72.75
+		},
+		{
+			"sections_title": "hmn-cp interactn",
+			"overallMIN": 77.43
+		},
+		{
+			"sections_title": "alg in bioin",
+			"overallMIN": 73.18
+		},
+		{
+			"sections_title": "honours thesis",
+			"overallMIN": 83.08
+		},
+		{
+			"sections_title": "student seminar",
+			"overallMIN": 84.5
+		},
+		{
+			"sections_title": "fund alg dsgn&an",
+			"overallMIN": 78.87
+		},
+		{
+			"sections_title": "thry of automata",
+			"overallMIN": 83.8
+		},
+		{
+			"sections_title": "artif intell 1",
+			"overallMIN": 81.06
+		},
+		{
+			"sections_title": "computl ling 1",
+			"overallMIN": 79.25
+		},
+		{
+			"sections_title": "software eng",
+			"overallMIN": 82.5
+		},
+		{
+			"sections_title": "prog lang princ",
+			"overallMIN": 84.25
+		},
+		{
+			"sections_title": "intgrt sys desgn",
+			"overallMIN": 64
+		},
+		{
+			"sections_title": "comput robotics",
+			"overallMIN": 79.88
+		},
+		{
+			"sections_title": "para algs & arch",
+			"overallMIN": 82.65
+		},
+		{
+			"sections_title": "artif intell 2",
+			"overallMIN": 82.55
+		},
+		{
+			"sections_title": "comp comm protcl",
+			"overallMIN": 83.78
+		},
+		{
+			"sections_title": "machine learn i",
+			"overallMIN": 81.12
+		},
+		{
+			"sections_title": "phy user intfc",
+			"overallMIN": 82.07
+		},
+		{
+			"sections_title": "hmn-cmpt intract",
+			"overallMIN": 81.64
+		},
+		{
+			"sections_title": "info visualizatn",
+			"overallMIN": 88.47
+		},
+		{
+			"sections_title": "m.sc major essay",
+			"overallMIN": 75
+		}
+	]
+}

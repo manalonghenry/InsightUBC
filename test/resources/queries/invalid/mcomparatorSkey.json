@@ -1,0 +1,17 @@
+{
+	"title": "mcomparator skey",
+	"input": {
+		"WHERE": {
+			"GT": {
+				"sections_instructor": ""
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_year"
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

@@ -1,0 +1,30 @@
+{
+	"title": "invalidKeyFullNameInMAXTest",
+	"input": {
+		"WHERE": {
+			"GT": {
+				"sections_avg": 99
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"overallMAX"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"overallMAX": {
+						"MAX": "sections_fullname"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

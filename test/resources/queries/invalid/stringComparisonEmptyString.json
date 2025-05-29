@@ -1,0 +1,17 @@
+{
+	"title": "string comparison empty string",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_instructor": ""
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_year"
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "ResultTooLargeError"
+}

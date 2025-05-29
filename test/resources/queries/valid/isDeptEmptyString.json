@@ -1,0 +1,19 @@
+{
+	"title": "is dept empty string",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": ""
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_uuid"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": false,
+	"expected": []
+}

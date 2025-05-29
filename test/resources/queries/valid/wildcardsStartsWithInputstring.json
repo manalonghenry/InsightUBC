@@ -1,0 +1,492 @@
+{
+	"title": "wildcardsStartsWithInputstring",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_instructor": "smit*"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_instructor"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "arth",
+			"sections_instructor": "smith, tai lin"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen;spiegelman, george b"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen;spiegelman, george b"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "chbe",
+			"sections_instructor": "smith, kevin"
+		},
+		{
+			"sections_dept": "cnps",
+			"sections_instructor": "smith, barbara ann"
+		},
+		{
+			"sections_dept": "cnps",
+			"sections_instructor": "smith, gillian"
+		},
+		{
+			"sections_dept": "edcp",
+			"sections_instructor": "smith, mary"
+		},
+		{
+			"sections_dept": "edcp",
+			"sections_instructor": "smith, mary gale"
+		},
+		{
+			"sections_dept": "educ",
+			"sections_instructor": "smith, mary gale"
+		},
+		{
+			"sections_dept": "educ",
+			"sections_instructor": "smith, mary"
+		},
+		{
+			"sections_dept": "educ",
+			"sections_instructor": "smith, mary gale"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, paul laurence"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, paul laurence"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, paul laurence"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, paul laurence"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, paul laurence;sutherland, stuart"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, paul laurence;sutherland, stuart"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie;tba"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie;tba"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "eosc",
+			"sections_instructor": "smith, james leslie"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, laurie"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, gillian"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, gillian"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, gillian"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, gillian"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, laurie"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, gillian"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, laurie"
+		},
+		{
+			"sections_dept": "epse",
+			"sections_instructor": "smith, veronica"
+		},
+		{
+			"sections_dept": "frst",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "frst",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "libe",
+			"sections_instructor": "smith, lauren a"
+		},
+		{
+			"sections_dept": "libe",
+			"sections_instructor": "smith, lauren a"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "smith, trevor"
+		},
+		{
+			"sections_dept": "math",
+			"sections_instructor": "smith, jefferey"
+		},
+		{
+			"sections_dept": "math",
+			"sections_instructor": "smith, jefferey"
+		},
+		{
+			"sections_dept": "math",
+			"sections_instructor": "smith, jefferey"
+		},
+		{
+			"sections_dept": "math",
+			"sections_instructor": "smith, matthew"
+		},
+		{
+			"sections_dept": "math",
+			"sections_instructor": "smith, matthew"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smith, karen"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smit, john kenneth"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smit, john kenneth"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smit, john kenneth"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smit, john kenneth"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smit, john kenneth"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smit, john kenneth"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smit, john kenneth"
+		},
+		{
+			"sections_dept": "micb",
+			"sections_instructor": "smit, john kenneth"
+		},
+		{
+			"sections_dept": "spph",
+			"sections_instructor": "smith, robert"
+		},
+		{
+			"sections_dept": "spph",
+			"sections_instructor": "smith, robert"
+		},
+		{
+			"sections_dept": "spph",
+			"sections_instructor": "smith, robert"
+		},
+		{
+			"sections_dept": "spph",
+			"sections_instructor": "smith, robert"
+		},
+		{
+			"sections_dept": "wood",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "wood",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "wood",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "wood",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "wood",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "wood",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "wood",
+			"sections_instructor": "smith, gregory"
+		},
+		{
+			"sections_dept": "wood",
+			"sections_instructor": "smith, gregory"
+		}
+	]
+}

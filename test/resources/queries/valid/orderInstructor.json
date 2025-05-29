@@ -1,0 +1,48 @@
+{
+	"title": "order instructor",
+	"input": {
+		"WHERE": {
+			"LT": {
+				"sections_pass": 1
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_instructor"
+			],
+			"ORDER": "sections_instructor"
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "wood",
+			"sections_instructor": ""
+		},
+		{
+			"sections_dept": "lfs",
+			"sections_instructor": ""
+		},
+		{
+			"sections_dept": "lfs",
+			"sections_instructor": ""
+		},
+		{
+			"sections_dept": "frst",
+			"sections_instructor": ""
+		},
+		{
+			"sections_dept": "busi",
+			"sections_instructor": ""
+		},
+		{
+			"sections_dept": "busi",
+			"sections_instructor": ""
+		},
+		{
+			"sections_dept": "fopr",
+			"sections_instructor": "bendickson, dennis"
+		}
+	]
+}

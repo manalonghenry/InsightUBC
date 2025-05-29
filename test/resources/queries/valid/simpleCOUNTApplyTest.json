@@ -1,0 +1,243 @@
+{
+	"title": "simpleCOUNTApplyTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"overallCOUNT"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"overallCOUNT": {
+						"COUNT": "sections_instructor"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_title": "comptn, progrmng",
+			"overallCOUNT": 12
+		},
+		{
+			"sections_title": "model comptn",
+			"overallCOUNT": 12
+		},
+		{
+			"sections_title": "sftwr constructn",
+			"overallCOUNT": 9
+		},
+		{
+			"sections_title": "intro comp sys",
+			"overallCOUNT": 8
+		},
+		{
+			"sections_title": "basic alg&data",
+			"overallCOUNT": 12
+		},
+		{
+			"sections_title": "dta&alg elec eng",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "basics comp syst",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "comptng life sci",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "num comp alg prb",
+			"overallCOUNT": 5
+		},
+		{
+			"sections_title": "num approx/discr",
+			"overallCOUNT": 5
+		},
+		{
+			"sections_title": "intr rel databse",
+			"overallCOUNT": 7
+		},
+		{
+			"sections_title": "intr sftwr eng",
+			"overallCOUNT": 9
+		},
+		{
+			"sections_title": "programmng langs",
+			"overallCOUNT": 6
+		},
+		{
+			"sections_title": "func & logic prg",
+			"overallCOUNT": 5
+		},
+		{
+			"sections_title": "comp hard&os",
+			"overallCOUNT": 7
+		},
+		{
+			"sections_title": "comp graphics",
+			"overallCOUNT": 8
+		},
+		{
+			"sections_title": "internet comp",
+			"overallCOUNT": 6
+		},
+		{
+			"sections_title": "softwr eng proj",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "intr alg dsgn&an",
+			"overallCOUNT": 8
+		},
+		{
+			"sections_title": "artificial intel",
+			"overallCOUNT": 8
+		},
+		{
+			"sections_title": "machine lrn mine",
+			"overallCOUNT": 6
+		},
+		{
+			"sections_title": "hum-com interact",
+			"overallCOUNT": 5
+		},
+		{
+			"sections_title": "adv rel databse",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "adv software eng",
+			"overallCOUNT": 6
+		},
+		{
+			"sections_title": "compiler constrc",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "adv opertng sysm",
+			"overallCOUNT": 2
+		},
+		{
+			"sections_title": "distrbt'd systms",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "parallel comput",
+			"overallCOUNT": 2
+		},
+		{
+			"sections_title": "adv alg dsgn&anl",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "theory comptg",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "intel systems",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "computer vision",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "comptr & society",
+			"overallCOUNT": 6
+		},
+		{
+			"sections_title": "hmn-cp interactn",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "alg in bioin",
+			"overallCOUNT": 5
+		},
+		{
+			"sections_title": "honours thesis",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "student seminar",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "fund alg dsgn&an",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "thry of automata",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "artif intell 1",
+			"overallCOUNT": 5
+		},
+		{
+			"sections_title": "computl ling 1",
+			"overallCOUNT": 2
+		},
+		{
+			"sections_title": "software eng",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "prog lang princ",
+			"overallCOUNT": 2
+		},
+		{
+			"sections_title": "intgrt sys desgn",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "comput robotics",
+			"overallCOUNT": 2
+		},
+		{
+			"sections_title": "para algs & arch",
+			"overallCOUNT": 3
+		},
+		{
+			"sections_title": "artif intell 2",
+			"overallCOUNT": 2
+		},
+		{
+			"sections_title": "comp comm protcl",
+			"overallCOUNT": 4
+		},
+		{
+			"sections_title": "machine learn i",
+			"overallCOUNT": 5
+		},
+		{
+			"sections_title": "phy user intfc",
+			"overallCOUNT": 2
+		},
+		{
+			"sections_title": "hmn-cmpt intract",
+			"overallCOUNT": 5
+		},
+		{
+			"sections_title": "info visualizatn",
+			"overallCOUNT": 2
+		},
+		{
+			"sections_title": "m.sc major essay",
+			"overallCOUNT": 1
+		}
+	]
+}

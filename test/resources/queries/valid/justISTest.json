@@ -1,0 +1,11108 @@
+{
+	"title": "justISTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "math"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_uuid"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3737"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3738"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3739"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3740"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3741"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3742"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3743"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3744"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3745"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3746"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3747"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5109"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5110"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5111"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5112"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5113"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5114"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5115"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5116"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5117"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5118"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13665"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13666"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13667"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13668"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13669"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13670"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13671"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13672"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13673"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13674"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13675"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27196"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27197"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27198"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27199"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27200"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27201"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27202"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27203"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27204"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27205"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29694"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29695"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29696"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29697"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29698"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29699"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29700"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29701"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29702"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29703"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31917"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31918"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31919"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31920"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31921"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31922"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31923"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31924"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33945"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33946"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33947"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33948"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33949"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33950"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33951"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33952"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33953"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46989"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46990"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46991"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46992"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46993"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46994"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46995"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46996"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46997"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72886"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72887"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72888"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72889"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72890"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72891"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72892"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72893"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72894"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72895"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89952"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89953"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89954"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89955"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89956"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89957"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89958"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89959"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89960"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3748"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3749"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3750"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3751"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3752"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3753"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3754"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3755"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3756"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3757"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3758"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3759"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5119"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5120"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5121"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5122"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5123"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5124"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5125"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5126"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5127"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5128"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5129"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5130"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5131"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13676"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13677"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13678"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13679"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13680"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13681"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13682"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13683"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13684"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13685"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13686"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13687"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13688"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23127"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23128"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24678"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24679"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27206"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27207"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27208"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27209"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27210"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27211"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27212"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27213"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27214"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27215"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27216"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29704"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29705"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29706"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29707"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29708"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29709"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29710"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29711"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29712"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29713"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29714"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29715"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33954"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33955"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33956"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33957"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33958"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33959"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33960"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33961"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33962"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33963"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33964"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46998"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "46999"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47000"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47001"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47002"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47003"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47004"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47005"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47006"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47007"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47008"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47009"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47010"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47011"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48137"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48138"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61267"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61268"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68472"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68473"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72896"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72897"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72898"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72899"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72900"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72901"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72902"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72903"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72904"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72905"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72906"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72907"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72908"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89961"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89962"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89963"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89964"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89965"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89966"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89967"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89968"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89969"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89970"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89971"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89972"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94415"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94416"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96989"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96990"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3760"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3761"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3762"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3763"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3764"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3765"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5132"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5133"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5134"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5135"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5136"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5137"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5138"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13689"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13690"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13691"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13692"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13693"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13694"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27217"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27218"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27219"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27220"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27221"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27222"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27223"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29716"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29717"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29718"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29719"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29720"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29721"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29722"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31925"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31926"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31927"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31928"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31929"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31930"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31931"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33965"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33966"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33967"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33968"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33969"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33970"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33971"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47012"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47013"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47014"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47015"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47016"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47017"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47018"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47019"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72909"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72910"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72911"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72912"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72913"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72914"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72915"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72916"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89973"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89974"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89975"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89976"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89977"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89978"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89979"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89980"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89981"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3766"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3767"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3768"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3769"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3770"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3771"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3772"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5139"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5140"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5141"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5142"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5143"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5144"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5145"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13695"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13696"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13697"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13698"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13699"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13700"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13701"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27224"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27225"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27226"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27227"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27228"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27229"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27230"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29723"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29724"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29725"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29726"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29727"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29728"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29729"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33972"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33973"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33974"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33975"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33976"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33977"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33978"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47020"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47021"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47022"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47023"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47024"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47025"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47026"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47027"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72917"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72918"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72919"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72920"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72921"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72922"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72923"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89982"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89983"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89984"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89985"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89986"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89987"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89988"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89989"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89990"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3773"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3774"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3775"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3776"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3777"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3778"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3779"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3780"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5146"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5147"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5148"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5149"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5150"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5151"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5152"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5153"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5154"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5155"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13702"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13703"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13704"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13705"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13706"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13707"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13708"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13709"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27231"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27232"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27233"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27234"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27235"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27236"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27237"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27238"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27239"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27240"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29730"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29731"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29732"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29733"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29734"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29735"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29736"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29737"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29738"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31932"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31933"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31934"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31935"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31936"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31937"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31938"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33979"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33980"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33981"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33982"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33983"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33984"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33985"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33986"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33987"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33988"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47028"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47029"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47030"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47031"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47032"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47033"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47034"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47035"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47036"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72924"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72925"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72926"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72927"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72928"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72929"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72930"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72931"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72932"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89991"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89992"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89993"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89994"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89995"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89996"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89997"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89998"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "89999"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3781"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3782"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3783"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3784"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3785"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3786"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3787"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3788"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3789"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3790"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3791"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3792"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5156"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5157"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5158"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5159"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5160"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5161"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5162"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5163"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5164"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5165"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5166"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13710"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13711"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13712"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13713"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13714"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13715"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13716"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13717"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13718"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13719"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23129"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23130"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23131"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24680"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24681"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24682"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27241"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27242"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27243"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27244"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27245"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27246"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27247"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27248"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27249"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27250"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27251"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27252"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27253"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29739"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29740"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29741"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29742"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29743"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29744"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29745"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33989"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33990"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33991"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33992"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33993"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33994"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33995"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33996"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33997"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47037"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47038"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47039"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47040"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47041"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47042"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47043"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47044"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47045"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47046"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47047"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47048"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47049"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48139"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48140"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48141"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61269"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61270"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61271"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68474"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68475"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72933"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72934"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72935"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72936"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72937"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72938"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72939"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72940"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72941"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72942"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90000"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90001"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90002"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90003"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90004"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90005"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90006"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90007"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90008"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90009"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96991"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96992"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3793"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3794"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3795"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3796"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5167"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5168"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5169"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5170"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27254"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27255"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27256"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27257"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29746"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29747"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29748"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29749"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33998"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "33999"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34000"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34001"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34002"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47050"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47051"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47052"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47053"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47054"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72943"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72944"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72945"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72946"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90010"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90011"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90012"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90013"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90014"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3797"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3798"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5171"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5172"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13720"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13721"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27258"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27259"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29750"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29751"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31939"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31940"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34003"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34004"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47055"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47056"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72947"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72948"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90015"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90016"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3799"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3800"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5173"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5174"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13722"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13723"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27260"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27261"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29752"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29753"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34005"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34006"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47057"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47058"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72949"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72950"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90017"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90018"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3801"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3802"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3803"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3804"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3805"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3806"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3807"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5175"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5176"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5177"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5178"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5179"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5180"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5181"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13724"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13725"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13726"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13727"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13728"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13729"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13730"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13731"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13732"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27262"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27263"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27264"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27265"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27266"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27267"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27268"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27269"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29754"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29755"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29756"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29757"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29758"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29759"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29760"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34007"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34008"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34009"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34010"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34011"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34012"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34013"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47059"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47060"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47061"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47062"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47063"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47064"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72951"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72952"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72953"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72954"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72955"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72956"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72957"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90019"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90020"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90021"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90022"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90023"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90024"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3808"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3809"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3810"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3811"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5182"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5183"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5184"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5185"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5186"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13733"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13734"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13735"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13736"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13737"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13738"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13739"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13740"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13741"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13742"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13743"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13744"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13745"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13746"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23132"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23133"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24683"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24684"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27270"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27271"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27272"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27273"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27274"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29761"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29762"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29763"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29764"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29765"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29766"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29767"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29768"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29769"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29770"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29771"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29772"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29773"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29774"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29775"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29776"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29777"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29778"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29779"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29780"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29781"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31941"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31942"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31943"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31944"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34014"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34015"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34016"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34017"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34018"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47065"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47066"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47067"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47068"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47069"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48142"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48143"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61272"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61273"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68476"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68477"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72958"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72959"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72960"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72961"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72962"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90025"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90026"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90027"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90028"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94417"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94418"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96993"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96994"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3812"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3813"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3814"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3815"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3816"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3817"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5187"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5188"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5189"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5190"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5191"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5192"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13747"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13748"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13749"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13750"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13751"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13752"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13753"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13754"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13755"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13756"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13757"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13758"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13759"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13760"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23134"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23135"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23136"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23137"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24685"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24686"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24687"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27275"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27276"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27277"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27278"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27279"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27280"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29782"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29783"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29784"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29785"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29786"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29787"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29788"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29789"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29790"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29791"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29792"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29793"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29794"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29795"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29796"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29797"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29798"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29799"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29800"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29801"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29802"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29803"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29804"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29805"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31945"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31946"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31947"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34019"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34020"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34021"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34022"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34023"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34024"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34025"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47070"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47071"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47072"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47073"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47074"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47075"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47076"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47077"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48144"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48145"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48146"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61274"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61275"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61276"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68478"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68479"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72963"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72964"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72965"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72966"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72967"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72968"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72969"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90029"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90030"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90031"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90032"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90033"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90034"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90035"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96995"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96996"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3818"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3819"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5193"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5194"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13761"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13762"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27281"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27282"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29806"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29807"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31948"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31949"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34026"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34027"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47078"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47079"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72970"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72971"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90036"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90037"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3820"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3821"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3822"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3823"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3824"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3825"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3826"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3827"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3828"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5195"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5196"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5197"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5198"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5199"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5200"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5201"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5202"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5203"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5204"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13763"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13764"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13765"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13766"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13767"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13768"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13769"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13770"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13771"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13772"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23138"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23139"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23140"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23141"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24688"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24689"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24690"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27283"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27284"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27285"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27286"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27287"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27288"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27289"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27290"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27291"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29808"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29809"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29810"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29811"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29812"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29813"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29814"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29815"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31950"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31951"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31952"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31953"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31954"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31955"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31956"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31957"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34028"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34029"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34030"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34031"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34032"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34033"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34034"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34035"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34036"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47080"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47081"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47082"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47083"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47084"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47085"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47086"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47087"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47088"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48147"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48148"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48149"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48150"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61277"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61278"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61279"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61280"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68480"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68481"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68482"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72972"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72973"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72974"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72975"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72976"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72977"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72978"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72979"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72980"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90038"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90039"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90040"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90041"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90042"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90043"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90044"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90045"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90046"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94419"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94420"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96997"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96998"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "96999"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3829"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3830"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5205"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5206"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13773"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13774"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27292"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27293"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29816"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29817"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34037"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34038"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47089"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47090"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72981"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72982"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90047"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90048"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3831"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3832"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3833"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3834"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3835"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3836"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3837"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3838"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5207"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5208"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5209"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5210"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5211"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5212"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13775"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13776"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13777"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13778"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13779"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13780"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23142"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23143"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23144"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24691"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24692"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27294"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27295"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27296"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27297"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27298"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27299"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27300"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29818"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29819"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29820"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29821"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29822"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31958"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31959"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31960"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31961"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34039"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34040"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34041"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34042"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34043"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34044"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34045"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34046"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47091"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47092"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47093"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47094"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47095"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47096"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47097"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47098"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48151"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48152"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48153"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61281"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61282"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68483"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68484"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72983"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72984"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72985"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72986"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72987"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72988"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72989"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90049"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90050"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90051"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90052"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90053"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90054"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90055"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94421"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94422"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97000"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97001"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3839"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3840"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5213"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5214"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13781"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13782"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23145"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23146"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27301"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27302"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29823"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29824"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31962"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31963"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34047"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34048"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47099"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47100"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68485"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68486"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72990"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72991"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90056"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90057"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97002"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97003"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3841"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3842"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3843"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3844"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3845"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5215"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5216"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5217"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5218"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13783"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13784"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13785"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13786"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13787"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23147"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23148"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24693"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24694"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27303"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27304"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27305"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27306"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27307"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29825"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29826"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29827"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29828"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34049"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34050"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34051"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34052"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34053"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34054"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47101"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47102"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47103"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47104"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47105"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47106"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48154"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48155"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61283"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61284"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68487"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68488"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72992"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72993"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72994"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72995"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72996"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90058"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90059"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90060"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90061"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90062"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90063"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90064"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90065"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97004"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97005"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3846"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3847"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3848"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3849"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3850"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3851"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3852"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5219"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5220"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5221"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5222"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5223"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5224"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5225"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13788"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13789"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13790"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13791"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13792"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13793"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13794"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23149"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23150"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24695"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24696"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27308"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27309"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27310"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27311"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27312"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27313"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27314"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29829"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29830"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29831"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29832"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29833"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29834"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34055"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34056"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34057"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34058"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34059"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34060"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34061"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47107"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47108"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47109"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47110"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47111"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47112"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47113"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48156"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48157"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61285"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61286"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68489"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68490"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72997"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72998"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "72999"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73000"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73001"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73002"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73003"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73004"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90066"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90067"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90068"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90069"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90070"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90071"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90072"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94423"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94424"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97006"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97007"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3853"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3854"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3855"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5226"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5227"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5228"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13795"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13796"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13797"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27315"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27316"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29835"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29836"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29837"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34062"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34063"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47114"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47115"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73005"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73006"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73007"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90073"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90074"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3856"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3857"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5229"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5230"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13798"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13799"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27317"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27318"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29838"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29839"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34064"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34065"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47116"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47117"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73008"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73009"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90075"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90076"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3858"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3859"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5231"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5232"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13800"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13801"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27319"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27320"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29840"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29841"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34066"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34067"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47118"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47119"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73010"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73011"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90077"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90078"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3862"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3863"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3864"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3865"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3866"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3867"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3868"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5235"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5236"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5237"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5238"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5239"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13804"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13805"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13806"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13807"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13808"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23151"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23152"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23153"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23154"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24697"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24698"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24699"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27323"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27324"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27325"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27326"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27327"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27328"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27329"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29844"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29845"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29846"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29847"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31964"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31965"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31966"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31967"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31968"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34070"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34071"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34072"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34073"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34074"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34075"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47120"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47121"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47122"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47123"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47124"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47125"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48158"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48159"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48160"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48161"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61287"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61288"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61289"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61290"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68491"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68492"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68493"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73014"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73015"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73016"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73017"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73018"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90079"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90080"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90081"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90082"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90083"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90084"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94425"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94426"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97008"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97009"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97010"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3869"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3870"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3871"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3872"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3873"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3874"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5240"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5241"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5242"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5243"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5244"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5245"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13809"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13810"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13811"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13812"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13813"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13814"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23155"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23156"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23157"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24700"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24701"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27330"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27331"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27332"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27333"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27334"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29848"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29849"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29850"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29851"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29852"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31969"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31970"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31971"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31972"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34076"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34077"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34078"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34079"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34080"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34081"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34082"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47126"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47127"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47128"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47129"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47130"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47131"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47132"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48162"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48163"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48164"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61291"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61292"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68494"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68495"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73019"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73020"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73021"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73022"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73023"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73024"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90085"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90086"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90087"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90088"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90089"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90090"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90091"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94427"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94428"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97011"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97012"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3875"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3876"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3877"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5246"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5247"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5248"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13815"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13816"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13817"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27335"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27336"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27337"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29853"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29854"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29855"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31973"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31974"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34083"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34084"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34085"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34086"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47133"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47134"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47135"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47136"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73025"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73026"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73027"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90092"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90093"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90094"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90095"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3878"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3879"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3880"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3881"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3882"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5249"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5250"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5251"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5252"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5253"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13818"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13819"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13820"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13821"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13822"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23158"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23159"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24702"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24703"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27338"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27339"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27340"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27341"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27342"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29856"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29857"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29858"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29859"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31975"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31976"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31977"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34087"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34088"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34089"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34090"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34091"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47137"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47138"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47139"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47140"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47141"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48165"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48166"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61293"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61294"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68496"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68497"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73028"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73029"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73030"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73031"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73032"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90096"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90097"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90098"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90099"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90100"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94429"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94430"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97013"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97014"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3883"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3884"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3885"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27343"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27344"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27345"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34092"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34093"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34094"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47142"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47143"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47144"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90101"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90102"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90103"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3893"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3894"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3895"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3896"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5264"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5265"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5266"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5267"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5268"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13835"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13836"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13837"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13838"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13839"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27353"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27354"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27355"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27356"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29870"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29871"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29872"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29873"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29874"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34095"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34096"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34097"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34098"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47145"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47146"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47147"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47148"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73043"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73044"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73045"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73046"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90104"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90105"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90106"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90107"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3897"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3898"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5269"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5270"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13840"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13841"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13842"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27357"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27358"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29875"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29876"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34099"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34100"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47149"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47150"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73047"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73048"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90108"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90109"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3899"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3900"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3901"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5271"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5272"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5273"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13843"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13844"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13845"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23164"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23165"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24704"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24705"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27359"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27360"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27361"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29877"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29878"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29879"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34101"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34102"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34103"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47151"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47152"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47153"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48167"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48168"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61295"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61296"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68502"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68503"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73049"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73050"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73051"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90110"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90111"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90112"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94431"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94432"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97019"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97020"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3902"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3903"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5274"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5275"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13846"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13847"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27362"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27363"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29880"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29881"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34104"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34105"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47154"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47155"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73052"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73053"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90113"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90114"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3904"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3905"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27364"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27365"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34106"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34107"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47156"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47157"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73054"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73055"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73056"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90115"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90116"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3906"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3907"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3908"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3909"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5276"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5277"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5278"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5279"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13848"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13849"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13850"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13851"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13852"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23166"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23167"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24706"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24707"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27366"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27367"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27368"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27369"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29882"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29883"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29884"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29885"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34108"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34109"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34110"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34111"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47158"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47159"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47160"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47161"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48169"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48170"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61297"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61298"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68504"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68505"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73057"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73058"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73059"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73060"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90117"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90118"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90119"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90120"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94433"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94434"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97021"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97022"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3910"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3911"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5280"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5281"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13853"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13854"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27370"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27371"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29886"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29887"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34112"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34113"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47162"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47163"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73061"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73062"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90121"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90122"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27372"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27373"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29888"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29889"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34114"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34115"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90123"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90124"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3914"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3915"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5284"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5285"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13857"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13858"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23168"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23169"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24708"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24709"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27374"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27375"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29890"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29891"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31978"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31979"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34116"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34117"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47164"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47165"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48171"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48172"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61299"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61300"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68506"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68507"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73063"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73064"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90125"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90126"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94435"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94436"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97023"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97024"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27376"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27377"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29892"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29893"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73065"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73066"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90127"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90128"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3916"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3917"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3918"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3919"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3920"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5286"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5287"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5288"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5289"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5290"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13859"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13860"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13861"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13862"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13863"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23170"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23171"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24710"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24711"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27378"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27379"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27380"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27381"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27382"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29894"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29895"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29896"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29897"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31980"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31981"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31982"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34118"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34119"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34120"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34121"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34122"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47166"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47167"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47168"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47169"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47170"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48173"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48174"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61301"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61302"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68508"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68509"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73067"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73068"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73069"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73070"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73071"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90129"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90130"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90131"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90132"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90133"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94437"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94438"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97025"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97026"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3921"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3922"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3923"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3924"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5291"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5292"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5293"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5294"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13864"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13865"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13866"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13867"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13868"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23172"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23173"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24712"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24713"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27383"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27384"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27385"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27386"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29898"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29899"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29900"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29901"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34123"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34124"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34125"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34126"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47171"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47172"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47173"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47174"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48175"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48176"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61303"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61304"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68510"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68511"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73072"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73073"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73074"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73075"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90134"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90135"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90136"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90137"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94439"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94440"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97027"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97028"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3925"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3926"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5295"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5296"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13869"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13870"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13871"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27387"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27388"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29902"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29903"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34127"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34128"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47175"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47176"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73076"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73077"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90138"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90139"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3927"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3928"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5297"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5298"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13872"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13873"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27389"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27390"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29904"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29905"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31983"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31984"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31985"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34129"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34130"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47177"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47178"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73078"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73079"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90140"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90141"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3929"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3930"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5299"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5300"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13874"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13875"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27391"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27392"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29906"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29907"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34131"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34132"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47179"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47180"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73080"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73081"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90142"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90143"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3931"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3932"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5301"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5302"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13876"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13877"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27393"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27394"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29908"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29909"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34133"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34134"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47181"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47182"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73082"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73083"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90144"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90145"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27395"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27396"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34135"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34136"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47183"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47184"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90146"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90147"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3933"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3934"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5305"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5306"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5307"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13878"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13879"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27397"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27398"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29910"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29911"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34137"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34138"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47185"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47186"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47187"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47188"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68512"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68513"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73084"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73085"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90148"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90149"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90150"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97029"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97030"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3935"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3936"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3937"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3938"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5308"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5309"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5310"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5311"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13880"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13881"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13882"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13883"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23174"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23175"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24714"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "24715"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27399"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27400"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27401"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27402"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29912"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29913"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29914"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29915"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34139"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34140"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34141"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34142"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47189"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47190"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47191"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47192"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48177"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48178"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61305"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61306"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68514"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68515"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73086"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73087"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73088"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73089"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90151"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90152"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90153"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90154"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94441"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "94442"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97031"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97032"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3939"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3940"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3941"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5312"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5313"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5314"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13884"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13885"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13886"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27403"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27404"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29916"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29917"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29918"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34143"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34144"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47193"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47194"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73090"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73091"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73092"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90155"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90156"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3942"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3943"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5315"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5316"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13887"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13888"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27405"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27406"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29919"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29920"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34145"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34146"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47195"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47196"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73093"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73094"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90157"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90158"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3944"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3945"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27407"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27408"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34147"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34148"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90159"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90160"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3946"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3947"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3948"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5317"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5318"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13889"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13890"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27411"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27412"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27413"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29923"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29924"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34149"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34150"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34151"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47199"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47200"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47201"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73097"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73098"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90161"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90162"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90163"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3949"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3950"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5319"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5320"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13891"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13892"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27414"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27415"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29925"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29926"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34152"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34153"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47202"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47203"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73099"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73100"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90164"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90165"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3951"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3952"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5323"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5324"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13895"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13896"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27418"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27419"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29927"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29928"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31986"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31987"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34154"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34155"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47206"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47207"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73103"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73104"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90166"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90167"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27420"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27421"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31988"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31989"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34156"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34157"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47208"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47209"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90168"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90169"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3955"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3956"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5327"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5328"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13897"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13898"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27422"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27423"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29929"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29930"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34160"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34161"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47210"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47211"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73105"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73106"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90170"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90171"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3957"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3958"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5329"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5330"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13899"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13900"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27424"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27425"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29931"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29932"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31992"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31993"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34162"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34163"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47212"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47213"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73107"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73108"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90172"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90173"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3959"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3960"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5331"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5332"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13901"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13902"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27426"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27427"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29933"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29934"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73109"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73110"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90174"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90175"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3961"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3962"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5333"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5334"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13903"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13904"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27428"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27429"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29935"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29936"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31994"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31995"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34164"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34165"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47214"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47215"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73111"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73112"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90176"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90177"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3963"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3964"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5335"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5336"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13905"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13906"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27430"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27431"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29937"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29938"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34166"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34167"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73113"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73114"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90178"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90179"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3965"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3966"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5337"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5338"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13907"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13908"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27432"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27433"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29939"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29940"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31996"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31997"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34168"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34169"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47216"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47217"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73115"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73116"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90180"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90181"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3967"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3968"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27434"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27435"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29941"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29942"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34170"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34171"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90182"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90183"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5341"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5342"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27438"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27439"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31998"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "31999"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34172"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34173"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47220"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47221"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73119"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73120"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90184"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90185"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27440"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27441"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73121"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73122"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90186"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90187"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3973"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3974"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5345"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5346"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13915"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13916"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27442"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27443"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29943"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29944"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32002"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32003"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34174"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34175"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47224"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47225"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73123"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73124"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3975"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3976"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13917"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13918"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27444"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27445"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29945"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29946"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32004"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32005"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34176"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34177"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47226"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47227"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73125"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73126"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90188"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90189"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29947"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29948"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34178"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34179"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47228"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47229"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73127"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73128"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90190"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90191"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27446"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27447"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29949"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29950"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47230"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47231"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73129"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73130"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90192"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90193"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27448"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27449"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47232"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47233"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90194"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90195"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32006"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32007"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3979"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3980"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5349"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5350"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13924"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13925"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27452"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27453"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29951"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29952"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47234"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47235"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73133"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73134"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3981"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3982"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5351"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5352"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13926"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13927"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27454"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27455"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29953"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29954"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73135"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73136"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3983"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3984"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27456"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27457"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32008"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32009"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47236"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47237"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73137"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73138"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90196"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90197"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3985"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3986"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5353"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5354"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13928"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13929"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27458"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27459"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29955"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29956"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32010"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32011"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34185"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34186"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47238"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47239"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73139"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73140"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90198"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90199"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3987"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3988"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5355"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5356"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29957"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29958"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32012"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32013"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34187"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34188"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47240"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47241"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73141"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73142"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90200"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90201"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3989"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3990"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5357"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5358"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27460"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27461"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29959"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29960"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34189"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34190"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47242"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47243"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73143"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73144"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90202"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90203"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34193"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34194"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73145"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73146"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90204"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90205"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3995"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3996"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5363"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5364"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13930"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13931"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27464"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27465"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29961"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29962"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34195"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34196"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47244"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47245"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73147"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73148"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90206"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90207"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3997"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3998"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5365"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5366"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13934"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13935"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27468"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27469"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29965"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29966"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34197"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34198"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47250"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47251"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73151"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73152"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90208"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90209"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29967"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29968"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34199"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34200"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73153"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73154"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90210"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90211"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "3999"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4000"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5369"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5370"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13936"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13937"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27470"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27471"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29969"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29970"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32014"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32015"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34201"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34202"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47252"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47253"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73155"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73156"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4003"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4004"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5373"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5374"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27474"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27475"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34205"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34206"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73159"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73160"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90212"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90213"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27478"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27479"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29971"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29972"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47256"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47257"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73165"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73166"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90214"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90215"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4005"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4006"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5375"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5376"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13938"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13939"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34209"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34210"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90216"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90217"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5379"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5380"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13940"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13941"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27482"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27483"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29975"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29976"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47260"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47261"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73169"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73170"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4007"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4008"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5381"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5382"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13942"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13943"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34213"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34214"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90218"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90219"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27486"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27487"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29977"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29978"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73173"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73174"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90220"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90221"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4009"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4010"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5385"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5386"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27488"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27489"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29981"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29982"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32016"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32017"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34215"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34216"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47264"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47265"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73177"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73178"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90222"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90223"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4011"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4012"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5387"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5388"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27490"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27491"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29983"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29984"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34217"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34218"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47266"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47267"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73179"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73180"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90224"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90225"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27492"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27493"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90226"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90227"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4015"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4016"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5391"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5392"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13948"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13949"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27499"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27500"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29986"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29987"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32018"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "32019"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34224"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34225"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47270"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47271"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73185"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73186"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90230"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90231"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27501"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27502"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29988"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29989"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73187"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73188"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90232"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90233"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4017"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4018"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5393"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5394"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29990"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "29991"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34226"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34227"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90234"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90235"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27505"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27506"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90236"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90237"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73191"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73192"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90238"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "90239"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4029"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "4030"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5399"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "5400"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "13952"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23179"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "23180"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "27509"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "34240"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47276"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "47277"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48182"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "48183"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "61312"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68520"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "68521"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73193"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "73194"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97035"
+		},
+		{
+			"sections_dept": "math",
+			"sections_uuid": "97036"
+		}
+	]
+}

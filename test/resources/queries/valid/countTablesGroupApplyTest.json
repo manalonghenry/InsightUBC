@@ -1,0 +1,184 @@
+{
+	"title": "countTablesGroupApplyTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"rooms_furniture": "*Tables*"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"rooms_fullname",
+				"countSeat"
+			],
+			"ORDER": "rooms_fullname"
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"rooms_fullname"
+			],
+			"APPLY": [
+				{
+					"countSeat": {
+						"COUNT": "rooms_furniture"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"rooms_fullname": "Allard Hall (LAW)",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Anthropology and Sociology",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Auditorium Annex",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "Biological Sciences",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Brock Hall Annex",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Buchanan",
+			"countSeat": 5
+		},
+		{
+			"rooms_fullname": "Chemical and Biological Engineering Building",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Civil and Mechanical Engineering",
+			"countSeat": 3
+		},
+		{
+			"rooms_fullname": "Earth Sciences Building",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "Earth and Ocean Sciences - Main",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "Food, Nutrition and Health",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "Forest Sciences Centre",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Frank Forward",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Frederic Lasserre",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Friedman Building",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "Geography",
+			"countSeat": 3
+		},
+		{
+			"rooms_fullname": "Hebb",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Hennings",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "Henry Angus",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Hugh Dempster Pavilion",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Iona Building",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Irving K Barber Learning Centre",
+			"countSeat": 4
+		},
+		{
+			"rooms_fullname": "Jack Bell Building for the School of Social Work",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "Leonard S. Klinck (also known as CSCI)",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Life Sciences Centre",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "MacLeod",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "MacMillan",
+			"countSeat": 3
+		},
+		{
+			"rooms_fullname": "Mathematics",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "Neville Scarfe",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Orchard Commons",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Pharmaceutical Sciences Building",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Ponderosa Commons: Oak House",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Robert F. Osborne Centre",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "School of Population and Public Health",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "Student Recreation Centre",
+			"countSeat": 1
+		},
+		{
+			"rooms_fullname": "The Leon and Thea Koerner University Centre",
+			"countSeat": 2
+		},
+		{
+			"rooms_fullname": "West Mall Swing Space",
+			"countSeat": 3
+		},
+		{
+			"rooms_fullname": "Woodward (Instructional Resources Centre-IRC)",
+			"countSeat": 2
+		}
+	]
+}

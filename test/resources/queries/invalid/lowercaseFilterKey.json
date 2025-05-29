@@ -1,0 +1,28 @@
+{
+	"title": "lowercase filter key",
+	"input": {
+		"WHERE": {
+			"AND": [
+				{
+					"is": {
+						"sections_dept": "*c"
+					}
+				},
+				{
+					"EQ": {
+						"sections_avg": 95
+					}
+				}
+			]
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_uuid",
+				"sections_id"
+			],
+			"ORDER": "sections_uuid"
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

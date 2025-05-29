@@ -1,0 +1,303 @@
+{
+	"title": "minAvg2Groups2ApplysTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"minAvg",
+				"minYear"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_dept",
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"minAvg": {
+						"MIN": "sections_avg"
+					}
+				},
+				{
+					"minYear": {
+						"MIN": "sections_year"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 67.79,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 67.13,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 68.13,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 64.62,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 65.1,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 72.4,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 67.91,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 71,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 68.64,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 68.35,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 71.89,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 72.27,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 72.83,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 76.52,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 70.46,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 67.85,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 68.54,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 78.93,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 66.34,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 67.48,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 68.4,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 73.3,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 68.76,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 74.04,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 72.24,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 68.79,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 71.75,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 75.61,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 68.77,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 69.47,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 66.13,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 71.8,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 72.75,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 77.43,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 73.18,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 83.08,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 84.5,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 78.87,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 83.8,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 81.06,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 79.25,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 82.5,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 84.25,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 64,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 79.88,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 82.65,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 82.55,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 83.78,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 81.12,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 82.07,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 81.64,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 88.47,
+			"minYear": 1900
+		},
+		{
+			"sections_dept": "cpsc",
+			"minAvg": 75,
+			"minYear": 1900
+		}
+	]
+}

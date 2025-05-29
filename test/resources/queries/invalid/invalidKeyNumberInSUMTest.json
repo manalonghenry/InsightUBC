@@ -1,0 +1,30 @@
+{
+	"title": "invalidKeyNumberInSUMTest",
+	"input": {
+		"WHERE": {
+			"GT": {
+				"sections_avg": 99
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"overallSUM"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"overallSUM": {
+						"SUM": "sections_number"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

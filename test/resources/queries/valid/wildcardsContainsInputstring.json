@@ -1,0 +1,92 @@
+{
+	"title": "wildcardsContainsInputstring",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_instructor": "*abb*"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_instructor"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "math",
+			"sections_instructor": "momeni, abbas"
+		},
+		{
+			"sections_dept": "math",
+			"sections_instructor": "abbaspour, hesam"
+		},
+		{
+			"sections_dept": "math",
+			"sections_instructor": "abbaspour, hesam"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "bernatchez, pascal;horne, andrew;leung, joanne y t;pang, catherine c;shabbits, jennifer anne;warriner, charles brian"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "bernatchez, pascal;griesdale, donald e;horne, andrew;leung, joanne y t;pang, catherine c;shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "abadi, shirin s.a.;hackett, tillie-louise;horne, andrew;laher, ismail;leung, joanne y t;pang, catherine c;shabbits, jennifer anne;warriner, charles brian;wright, james"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "horne, andrew;shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "pcth",
+			"sections_instructor": "abadi, shirin s.a.;hackett, tillie-louise;horne, andrew;laher, ismail;leung, joanne y t;pang, catherine c;shabbits, jennifer anne"
+		},
+		{
+			"sections_dept": "phar",
+			"sections_instructor": "collier, abby;ensom, mary;wong, harvey"
+		},
+		{
+			"sections_dept": "phar",
+			"sections_instructor": "collier, abby;ensom, mary;wong, harvey"
+		},
+		{
+			"sections_dept": "phar",
+			"sections_instructor": "collier, abby;ensom, mary;wong, harvey"
+		},
+		{
+			"sections_dept": "phrm",
+			"sections_instructor": "albon, simon;cairns, brian;chen, tim;collier, abby;de vera, mary;ensom, mary;frankel, adam;hafeli, urs;li, shyh-dar;lynd, larry;rodrigues, brian;seet, tony;seto, katherine;wong, judy"
+		}
+	]
+}

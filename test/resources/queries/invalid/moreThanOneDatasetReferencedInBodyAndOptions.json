@@ -1,0 +1,17 @@
+{
+	"title": "more than one dataset referenced in body and options",
+	"input": {
+		"WHERE": {
+			"GT": {
+				"sections_avg": 97
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"section1_year"
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

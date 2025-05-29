@@ -1,0 +1,30 @@
+{
+	"title": "invalidKeyHRefInAVGTest",
+	"input": {
+		"WHERE": {
+			"GT": {
+				"sections_avg": 99
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"overallAVG"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"overallAVG": {
+						"AVG": "sections_href"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

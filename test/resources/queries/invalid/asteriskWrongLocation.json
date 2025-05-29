@@ -1,0 +1,17 @@
+{
+	"title": "asterisk wrong location",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_instructor": "cron*k"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_year"
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

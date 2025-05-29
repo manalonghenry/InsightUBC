@@ -1,0 +1,243 @@
+{
+	"title": "simpleMAXApplyTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"overallMAX"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"overallMAX": {
+						"MAX": "sections_avg"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_title": "comptn, progrmng",
+			"overallMAX": 85.46
+		},
+		{
+			"sections_title": "model comptn",
+			"overallMAX": 84.56
+		},
+		{
+			"sections_title": "sftwr constructn",
+			"overallMAX": 86.15
+		},
+		{
+			"sections_title": "intro comp sys",
+			"overallMAX": 81.76
+		},
+		{
+			"sections_title": "basic alg&data",
+			"overallMAX": 86.47
+		},
+		{
+			"sections_title": "dta&alg elec eng",
+			"overallMAX": 75.82
+		},
+		{
+			"sections_title": "basics comp syst",
+			"overallMAX": 71.45
+		},
+		{
+			"sections_title": "comptng life sci",
+			"overallMAX": 88
+		},
+		{
+			"sections_title": "num comp alg prb",
+			"overallMAX": 79.46
+		},
+		{
+			"sections_title": "num approx/discr",
+			"overallMAX": 77.62
+		},
+		{
+			"sections_title": "intr rel databse",
+			"overallMAX": 85.5
+		},
+		{
+			"sections_title": "intr sftwr eng",
+			"overallMAX": 84.6
+		},
+		{
+			"sections_title": "programmng langs",
+			"overallMAX": 84.39
+		},
+		{
+			"sections_title": "func & logic prg",
+			"overallMAX": 85.13
+		},
+		{
+			"sections_title": "comp hard&os",
+			"overallMAX": 82.27
+		},
+		{
+			"sections_title": "comp graphics",
+			"overallMAX": 82.58
+		},
+		{
+			"sections_title": "internet comp",
+			"overallMAX": 76.87
+		},
+		{
+			"sections_title": "softwr eng proj",
+			"overallMAX": 88.39
+		},
+		{
+			"sections_title": "intr alg dsgn&an",
+			"overallMAX": 73.38
+		},
+		{
+			"sections_title": "artificial intel",
+			"overallMAX": 78.34
+		},
+		{
+			"sections_title": "machine lrn mine",
+			"overallMAX": 82.66
+		},
+		{
+			"sections_title": "hum-com interact",
+			"overallMAX": 81.18
+		},
+		{
+			"sections_title": "adv rel databse",
+			"overallMAX": 81.82
+		},
+		{
+			"sections_title": "adv software eng",
+			"overallMAX": 80.18
+		},
+		{
+			"sections_title": "compiler constrc",
+			"overallMAX": 86
+		},
+		{
+			"sections_title": "adv opertng sysm",
+			"overallMAX": 73.37
+		},
+		{
+			"sections_title": "distrbt'd systms",
+			"overallMAX": 81.18
+		},
+		{
+			"sections_title": "parallel comput",
+			"overallMAX": 86.04
+		},
+		{
+			"sections_title": "adv alg dsgn&anl",
+			"overallMAX": 78.32
+		},
+		{
+			"sections_title": "theory comptg",
+			"overallMAX": 79.88
+		},
+		{
+			"sections_title": "intel systems",
+			"overallMAX": 78.3
+		},
+		{
+			"sections_title": "computer vision",
+			"overallMAX": 77.68
+		},
+		{
+			"sections_title": "comptr & society",
+			"overallMAX": 80.55
+		},
+		{
+			"sections_title": "hmn-cp interactn",
+			"overallMAX": 80.62
+		},
+		{
+			"sections_title": "alg in bioin",
+			"overallMAX": 91.25
+		},
+		{
+			"sections_title": "honours thesis",
+			"overallMAX": 93.5
+		},
+		{
+			"sections_title": "student seminar",
+			"overallMAX": 92.4
+		},
+		{
+			"sections_title": "fund alg dsgn&an",
+			"overallMAX": 86.33
+		},
+		{
+			"sections_title": "thry of automata",
+			"overallMAX": 94
+		},
+		{
+			"sections_title": "artif intell 1",
+			"overallMAX": 86.2
+		},
+		{
+			"sections_title": "computl ling 1",
+			"overallMAX": 94.5
+		},
+		{
+			"sections_title": "software eng",
+			"overallMAX": 91.79
+		},
+		{
+			"sections_title": "prog lang princ",
+			"overallMAX": 88
+		},
+		{
+			"sections_title": "intgrt sys desgn",
+			"overallMAX": 89.09
+		},
+		{
+			"sections_title": "comput robotics",
+			"overallMAX": 83.36
+		},
+		{
+			"sections_title": "para algs & arch",
+			"overallMAX": 87.78
+		},
+		{
+			"sections_title": "artif intell 2",
+			"overallMAX": 90.71
+		},
+		{
+			"sections_title": "comp comm protcl",
+			"overallMAX": 91.22
+		},
+		{
+			"sections_title": "machine learn i",
+			"overallMAX": 91.22
+		},
+		{
+			"sections_title": "phy user intfc",
+			"overallMAX": 89.75
+		},
+		{
+			"sections_title": "hmn-cmpt intract",
+			"overallMAX": 88
+		},
+		{
+			"sections_title": "info visualizatn",
+			"overallMAX": 88.68
+		},
+		{
+			"sections_title": "m.sc major essay",
+			"overallMAX": 95
+		}
+	]
+}

@@ -1,0 +1,299 @@
+{
+	"title": "avgAvgTwoGroupsApplyTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"avgAvg",
+				"sections_title"
+			],
+			"ORDER": "avgAvg"
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_dept",
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"avgAvg": {
+						"AVG": "sections_avg"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 69.17,
+			"sections_title": "basics comp syst"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 70.09,
+			"sections_title": "intr alg dsgn&an"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 70.93,
+			"sections_title": "adv opertng sysm"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 72.24,
+			"sections_title": "adv alg dsgn&anl"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 72.57,
+			"sections_title": "internet comp"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 72.76,
+			"sections_title": "num approx/discr"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 73.01,
+			"sections_title": "intel systems"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 73.11,
+			"sections_title": "artificial intel"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 73.93,
+			"sections_title": "computer vision"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 73.98,
+			"sections_title": "comp hard&os"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 73.99,
+			"sections_title": "sftwr constructn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 74.04,
+			"sections_title": "intro comp sys"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 74.32,
+			"sections_title": "adv rel databse"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 74.41,
+			"sections_title": "comptn, progrmng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 74.46,
+			"sections_title": "dta&alg elec eng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 74.49,
+			"sections_title": "basic alg&data"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 74.9,
+			"sections_title": "distrbt'd systms"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 74.91,
+			"sections_title": "theory comptg"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 75.51,
+			"sections_title": "num comp alg prb"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 75.54,
+			"sections_title": "model comptn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 75.69,
+			"sections_title": "machine lrn mine"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 76.3,
+			"sections_title": "intr rel databse"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 76.78,
+			"sections_title": "comp graphics"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 77.11,
+			"sections_title": "adv software eng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 77.25,
+			"sections_title": "programmng langs"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 77.39,
+			"sections_title": "comptr & society"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 78.25,
+			"sections_title": "intr sftwr eng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 78.47,
+			"sections_title": "hum-com interact"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 78.84,
+			"sections_title": "hmn-cp interactn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 80.18,
+			"sections_title": "compiler constrc"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 80.51,
+			"sections_title": "parallel comput"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 80.71,
+			"sections_title": "func & logic prg"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 80.86,
+			"sections_title": "alg in bioin"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 81.8,
+			"sections_title": "comput robotics"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 81.84,
+			"sections_title": "comptng life sci"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 82.7,
+			"sections_title": "intgrt sys desgn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 82.96,
+			"sections_title": "artif intell 1"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 83.96,
+			"sections_title": "fund alg dsgn&an"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 84.31,
+			"sections_title": "hmn-cmpt intract"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 84.52,
+			"sections_title": "softwr eng proj"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 85.06,
+			"sections_title": "para algs & arch"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 85.16,
+			"sections_title": "artif intell 2"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 85.75,
+			"sections_title": "m.sc major essay"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 85.78,
+			"sections_title": "phy user intfc"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 85.87,
+			"sections_title": "machine learn i"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 86.02,
+			"sections_title": "prog lang princ"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 87.44,
+			"sections_title": "software eng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 87.48,
+			"sections_title": "comp comm protcl"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 88.08,
+			"sections_title": "computl ling 1"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 88.58,
+			"sections_title": "info visualizatn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 89.77,
+			"sections_title": "student seminar"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 89.77,
+			"sections_title": "thry of automata"
+		},
+		{
+			"sections_dept": "cpsc",
+			"avgAvg": 90.38,
+			"sections_title": "honours thesis"
+		}
+	]
+}

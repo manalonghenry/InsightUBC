@@ -1,0 +1,30 @@
+{
+	"title": "double underscore in key",
+	"input": {
+		"WHERE": {
+			"AND": [
+				{
+					"NOT": {
+						"IS": {
+							"sections_dept": "bb"
+						}
+					}
+				},
+				{
+					"EQ": {
+						"sections_avg": 95
+					}
+				}
+			]
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections__uuid",
+				"sections_id"
+			],
+			"ORDER": "sections_uuid"
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

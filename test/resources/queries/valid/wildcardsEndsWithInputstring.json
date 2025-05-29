@@ -1,0 +1,508 @@
+{
+	"title": "wildcardsEndsWithInputstring",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_instructor": "*ith"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_instructor"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "adhe",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "adhe",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "adhe",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "adhe",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "adhe",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "adhe",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "adhe",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "adhe",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "biol",
+			"sections_instructor": "adams, keith"
+		},
+		{
+			"sections_dept": "ccst",
+			"sections_instructor": "wallace, keith"
+		},
+		{
+			"sections_dept": "cnps",
+			"sections_instructor": "rostad, faith"
+		},
+		{
+			"sections_dept": "cnps",
+			"sections_instructor": "rostad, faith"
+		},
+		{
+			"sections_dept": "cnps",
+			"sections_instructor": "rostad, faith"
+		},
+		{
+			"sections_dept": "cnps",
+			"sections_instructor": "rostad, faith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "comm",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "crwr",
+			"sections_instructor": "maillard, keith"
+		},
+		{
+			"sections_dept": "crwr",
+			"sections_instructor": "maillard, keith"
+		},
+		{
+			"sections_dept": "crwr",
+			"sections_instructor": "maillard, keith"
+		},
+		{
+			"sections_dept": "crwr",
+			"sections_instructor": "maillard, keith"
+		},
+		{
+			"sections_dept": "eced",
+			"sections_instructor": "oldfield, judith"
+		},
+		{
+			"sections_dept": "eced",
+			"sections_instructor": "oldfield, judith"
+		},
+		{
+			"sections_dept": "eced",
+			"sections_instructor": "oldfield, judith"
+		},
+		{
+			"sections_dept": "eced",
+			"sections_instructor": "oldfield, judith"
+		},
+		{
+			"sections_dept": "eced",
+			"sections_instructor": "oldfield, judith"
+		},
+		{
+			"sections_dept": "eced",
+			"sections_instructor": "oldfield, judith"
+		},
+		{
+			"sections_dept": "econ",
+			"sections_instructor": "head, c keith"
+		},
+		{
+			"sections_dept": "edst",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "edst",
+			"sections_instructor": "palacios, carolina;walker, judith"
+		},
+		{
+			"sections_dept": "edst",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "edst",
+			"sections_instructor": "walker, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "paltin, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "scholes, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "scholes, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "scholes, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "scholes, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "scholes, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "scholes, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "scholes, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "paltin, judith"
+		},
+		{
+			"sections_dept": "engl",
+			"sections_instructor": "paltin, judith"
+		},
+		{
+			"sections_dept": "libe",
+			"sections_instructor": "mcpherson, keith"
+		},
+		{
+			"sections_dept": "libe",
+			"sections_instructor": "mcpherson, keith"
+		},
+		{
+			"sections_dept": "libe",
+			"sections_instructor": "mcpherson, keith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "saltman, judith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "rasmussen, edith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "rasmussen, edith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "rasmussen, edith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "rasmussen, edith"
+		},
+		{
+			"sections_dept": "libr",
+			"sections_instructor": "rasmussen, edith"
+		},
+		{
+			"sections_dept": "lled",
+			"sections_instructor": "mcpherson, keith"
+		},
+		{
+			"sections_dept": "lled",
+			"sections_instructor": "mcpherson, keith"
+		},
+		{
+			"sections_dept": "mech",
+			"sections_instructor": "gamage, lalith"
+		},
+		{
+			"sections_dept": "musc",
+			"sections_instructor": "hamel, keith"
+		},
+		{
+			"sections_dept": "musc",
+			"sections_instructor": "hamel, keith"
+		},
+		{
+			"sections_dept": "musc",
+			"sections_instructor": "hamel, keith"
+		},
+		{
+			"sections_dept": "musc",
+			"sections_instructor": "hamel, keith"
+		},
+		{
+			"sections_dept": "musc",
+			"sections_instructor": "hamel, keith"
+		},
+		{
+			"sections_dept": "musc",
+			"sections_instructor": "hamel, keith"
+		},
+		{
+			"sections_dept": "musc",
+			"sections_instructor": "hamel, keith"
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_instructor": "lynam, mary judith"
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_instructor": "baumbusch, jennifer;lynam, mary judith"
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_instructor": "lynam, mary judith"
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_instructor": "lynam, mary judith"
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_instructor": "balneaves, lynda;lynam, mary judith"
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_instructor": "lynam, mary judith"
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_instructor": "lynam, mary judith"
+		},
+		{
+			"sections_dept": "phar",
+			"sections_instructor": "mccormack, james;soon, judith"
+		},
+		{
+			"sections_dept": "phar",
+			"sections_instructor": "soon, judith"
+		},
+		{
+			"sections_dept": "phar",
+			"sections_instructor": "soon, judith"
+		},
+		{
+			"sections_dept": "phar",
+			"sections_instructor": "loewen, peter shane;soon, judith"
+		},
+		{
+			"sections_dept": "phys",
+			"sections_instructor": "affleck, ian keith"
+		},
+		{
+			"sections_dept": "phys",
+			"sections_instructor": "affleck, ian keith"
+		},
+		{
+			"sections_dept": "phys",
+			"sections_instructor": "affleck, ian keith"
+		},
+		{
+			"sections_dept": "phys",
+			"sections_instructor": "affleck, ian keith"
+		},
+		{
+			"sections_dept": "phys",
+			"sections_instructor": "affleck, ian keith"
+		},
+		{
+			"sections_dept": "phys",
+			"sections_instructor": "affleck, ian keith"
+		},
+		{
+			"sections_dept": "phys",
+			"sections_instructor": "affleck, ian keith"
+		},
+		{
+			"sections_dept": "psyc",
+			"sections_instructor": "chen, edith"
+		},
+		{
+			"sections_dept": "psyc",
+			"sections_instructor": "chen, edith"
+		},
+		{
+			"sections_dept": "soci",
+			"sections_instructor": "preston, evan keith"
+		},
+		{
+			"sections_dept": "soci",
+			"sections_instructor": "preston, evan keith"
+		},
+		{
+			"sections_dept": "soci",
+			"sections_instructor": "preston, evan keith"
+		}
+	]
+}

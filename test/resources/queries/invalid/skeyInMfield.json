@@ -1,0 +1,30 @@
+{
+	"title": "skey in mfield",
+	"input": {
+		"WHERE": {
+			"AND": [
+				{
+					"NOT": {
+						"IS": {
+							"sections_dept": "*あ"
+						}
+					}
+				},
+				{
+					"EQ": {
+						"sections_avg": "hi"
+					}
+				}
+			]
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_uuid",
+				"sections_id"
+			],
+			"ORDER": "sections_uuid"
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

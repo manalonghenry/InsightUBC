@@ -1,0 +1,19 @@
+{
+	"title": "invalidWildcard(AsteriskInMiddle)",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_instructor": "smi*t"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_instructor"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

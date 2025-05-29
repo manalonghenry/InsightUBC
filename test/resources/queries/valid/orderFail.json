@@ -1,0 +1,48 @@
+{
+	"title": "order fail",
+	"input": {
+		"WHERE": {
+			"EQ": {
+				"sections_pass": 0
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_fail"
+			],
+			"ORDER": "sections_fail"
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "lfs",
+			"sections_fail": 1
+		},
+		{
+			"sections_dept": "lfs",
+			"sections_fail": 1
+		},
+		{
+			"sections_dept": "frst",
+			"sections_fail": 1
+		},
+		{
+			"sections_dept": "busi",
+			"sections_fail": 1
+		},
+		{
+			"sections_dept": "busi",
+			"sections_fail": 1
+		},
+		{
+			"sections_dept": "wood",
+			"sections_fail": 2
+		},
+		{
+			"sections_dept": "fopr",
+			"sections_fail": 4
+		}
+	]
+}

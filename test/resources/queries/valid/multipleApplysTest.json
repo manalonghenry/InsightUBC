@@ -1,0 +1,43 @@
+{
+	"title": "multipleApplysTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"maxAvg",
+				"minYear"
+			],
+			"ORDER": "maxAvg"
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_dept"
+			],
+			"APPLY": [
+				{
+					"maxAvg": {
+						"MAX": "sections_avg"
+					}
+				},
+				{
+					"minYear": {
+						"MIN": "sections_year"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "cpsc",
+			"maxAvg": 95,
+			"minYear": 1900
+		}
+	]
+}

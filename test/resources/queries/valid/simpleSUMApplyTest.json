@@ -1,0 +1,243 @@
+{
+	"title": "simpleSUMApplyTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"overallSUM"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"overallSUM": {
+						"SUM": "sections_avg"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_title": "comptn, progrmng",
+			"overallSUM": 4315.79
+		},
+		{
+			"sections_title": "model comptn",
+			"overallSUM": 4608.02
+		},
+		{
+			"sections_title": "sftwr constructn",
+			"overallSUM": 3403.46
+		},
+		{
+			"sections_title": "intro comp sys",
+			"overallSUM": 3183.71
+		},
+		{
+			"sections_title": "basic alg&data",
+			"overallSUM": 3873.43
+		},
+		{
+			"sections_title": "dta&alg elec eng",
+			"overallSUM": 744.64
+		},
+		{
+			"sections_title": "basics comp syst",
+			"overallSUM": 553.36
+		},
+		{
+			"sections_title": "comptng life sci",
+			"overallSUM": 1145.72
+		},
+		{
+			"sections_title": "num comp alg prb",
+			"overallSUM": 1359.2
+		},
+		{
+			"sections_title": "num approx/discr",
+			"overallSUM": 1309.7
+		},
+		{
+			"sections_title": "intr rel databse",
+			"overallSUM": 3128.23
+		},
+		{
+			"sections_title": "intr sftwr eng",
+			"overallSUM": 3051.73
+		},
+		{
+			"sections_title": "programmng langs",
+			"overallSUM": 1390.44
+		},
+		{
+			"sections_title": "func & logic prg",
+			"overallSUM": 1614.16
+		},
+		{
+			"sections_title": "comp hard&os",
+			"overallSUM": 2589.4
+		},
+		{
+			"sections_title": "comp graphics",
+			"overallSUM": 2073.03
+		},
+		{
+			"sections_title": "internet comp",
+			"overallSUM": 1959.28
+		},
+		{
+			"sections_title": "softwr eng proj",
+			"overallSUM": 1521.28
+		},
+		{
+			"sections_title": "intr alg dsgn&an",
+			"overallSUM": 2313.12
+		},
+		{
+			"sections_title": "artificial intel",
+			"overallSUM": 2266.48
+		},
+		{
+			"sections_title": "machine lrn mine",
+			"overallSUM": 1513.82
+		},
+		{
+			"sections_title": "hum-com interact",
+			"overallSUM": 1491
+		},
+		{
+			"sections_title": "adv rel databse",
+			"overallSUM": 2006.77
+		},
+		{
+			"sections_title": "adv software eng",
+			"overallSUM": 1388
+		},
+		{
+			"sections_title": "compiler constrc",
+			"overallSUM": 1443.3
+		},
+		{
+			"sections_title": "adv opertng sysm",
+			"overallSUM": 1418.58
+		},
+		{
+			"sections_title": "distrbt'd systms",
+			"overallSUM": 1348.18
+		},
+		{
+			"sections_title": "parallel comput",
+			"overallSUM": 483.04
+		},
+		{
+			"sections_title": "adv alg dsgn&anl",
+			"overallSUM": 1300.28
+		},
+		{
+			"sections_title": "theory comptg",
+			"overallSUM": 1348.36
+		},
+		{
+			"sections_title": "intel systems",
+			"overallSUM": 1314.16
+		},
+		{
+			"sections_title": "computer vision",
+			"overallSUM": 1330.7
+		},
+		{
+			"sections_title": "comptr & society",
+			"overallSUM": 1702.58
+		},
+		{
+			"sections_title": "hmn-cp interactn",
+			"overallSUM": 788.38
+		},
+		{
+			"sections_title": "alg in bioin",
+			"overallSUM": 1455.46
+		},
+		{
+			"sections_title": "honours thesis",
+			"overallSUM": 1446.06
+		},
+		{
+			"sections_title": "student seminar",
+			"overallSUM": 1346.55
+		},
+		{
+			"sections_title": "fund alg dsgn&an",
+			"overallSUM": 1511.2
+		},
+		{
+			"sections_title": "thry of automata",
+			"overallSUM": 1077.3
+		},
+		{
+			"sections_title": "artif intell 1",
+			"overallSUM": 1161.48
+		},
+		{
+			"sections_title": "computl ling 1",
+			"overallSUM": 1057
+		},
+		{
+			"sections_title": "software eng",
+			"overallSUM": 874.42
+		},
+		{
+			"sections_title": "prog lang princ",
+			"overallSUM": 860.2
+		},
+		{
+			"sections_title": "intgrt sys desgn",
+			"overallSUM": 1323.14
+		},
+		{
+			"sections_title": "comput robotics",
+			"overallSUM": 490.78
+		},
+		{
+			"sections_title": "para algs & arch",
+			"overallSUM": 1190.82
+		},
+		{
+			"sections_title": "artif intell 2",
+			"overallSUM": 681.3
+		},
+		{
+			"sections_title": "comp comm protcl",
+			"overallSUM": 699.88
+		},
+		{
+			"sections_title": "machine learn i",
+			"overallSUM": 1373.92
+		},
+		{
+			"sections_title": "phy user intfc",
+			"overallSUM": 1029.4
+		},
+		{
+			"sections_title": "hmn-cmpt intract",
+			"overallSUM": 1517.6
+		},
+		{
+			"sections_title": "info visualizatn",
+			"overallSUM": 354.3
+		},
+		{
+			"sections_title": "m.sc major essay",
+			"overallSUM": 1457.77
+		}
+	]
+}

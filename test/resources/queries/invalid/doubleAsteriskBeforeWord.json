@@ -1,0 +1,19 @@
+{
+	"title": "double asterisk before word",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "**c"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_uuid"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

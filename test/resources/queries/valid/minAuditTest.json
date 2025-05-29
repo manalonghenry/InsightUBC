@@ -1,0 +1,298 @@
+{
+	"title": "minAuditTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"min",
+				"sections_title"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_dept",
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"min": {
+						"MIN": "sections_audit"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "comptn, progrmng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "model comptn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "sftwr constructn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "intro comp sys"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "basic alg&data"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "dta&alg elec eng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "basics comp syst"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "comptng life sci"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "num comp alg prb"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "num approx/discr"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "intr rel databse"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "intr sftwr eng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "programmng langs"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "func & logic prg"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "comp hard&os"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "comp graphics"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "internet comp"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "softwr eng proj"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "intr alg dsgn&an"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "artificial intel"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "machine lrn mine"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "hum-com interact"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "adv rel databse"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "adv software eng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "compiler constrc"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "adv opertng sysm"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "distrbt'd systms"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "parallel comput"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "adv alg dsgn&anl"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "theory comptg"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "intel systems"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "computer vision"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "comptr & society"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "hmn-cp interactn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "alg in bioin"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "honours thesis"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "student seminar"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "fund alg dsgn&an"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "thry of automata"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "artif intell 1"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "computl ling 1"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "software eng"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "prog lang princ"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "intgrt sys desgn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "comput robotics"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "para algs & arch"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "artif intell 2"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "comp comm protcl"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "machine learn i"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "phy user intfc"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "hmn-cmpt intract"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "info visualizatn"
+		},
+		{
+			"sections_dept": "cpsc",
+			"min": 0,
+			"sections_title": "m.sc major essay"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"title": "gt null",
+	"input": {
+		"WHERE": {
+			"GT": null
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_year"
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

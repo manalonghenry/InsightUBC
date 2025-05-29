@@ -1,0 +1,17 @@
+{
+	"title": "or empty array",
+	"input": {
+		"WHERE": {
+			"OR": []
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_uuid"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

@@ -1,0 +1,231 @@
+{
+	"title": "all mfield and sfield in options",
+	"input": {
+		"WHERE": {
+			"GT": {
+				"sections_avg": 98.5
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_id",
+				"sections_instructor",
+				"sections_title",
+				"sections_uuid",
+				"sections_avg",
+				"sections_pass",
+				"sections_fail",
+				"sections_audit",
+				"sections_year"
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "cnps",
+			"sections_id": "574",
+			"sections_instructor": "cox, daniel",
+			"sections_title": "career planning",
+			"sections_uuid": "26777",
+			"sections_avg": 99.19,
+			"sections_pass": 16,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2012
+		},
+		{
+			"sections_dept": "eece",
+			"sections_id": "541",
+			"sections_instructor": "coria, lino",
+			"sections_title": "multimedia sys",
+			"sections_uuid": "10235",
+			"sections_avg": 98.75,
+			"sections_pass": 12,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2009
+		},
+		{
+			"sections_dept": "eece",
+			"sections_id": "541",
+			"sections_instructor": "",
+			"sections_title": "multimedia sys",
+			"sections_uuid": "10236",
+			"sections_avg": 98.75,
+			"sections_pass": 12,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 1900
+		},
+		{
+			"sections_dept": "epse",
+			"sections_id": "421",
+			"sections_instructor": "cole, kenneth",
+			"sections_title": "assess lrn diffi",
+			"sections_uuid": "33780",
+			"sections_avg": 98.7,
+			"sections_pass": 10,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2009
+		},
+		{
+			"sections_dept": "epse",
+			"sections_id": "449",
+			"sections_instructor": "grow, laura",
+			"sections_title": "educ stds autism",
+			"sections_uuid": "6320",
+			"sections_avg": 98.8,
+			"sections_pass": 25,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2014
+		},
+		{
+			"sections_dept": "epse",
+			"sections_id": "449",
+			"sections_instructor": "grow, laura",
+			"sections_title": "educ stds autism",
+			"sections_uuid": "29255",
+			"sections_avg": 98.58,
+			"sections_pass": 24,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2012
+		},
+		{
+			"sections_dept": "epse",
+			"sections_id": "449",
+			"sections_instructor": "",
+			"sections_title": "educ stds autism",
+			"sections_uuid": "29256",
+			"sections_avg": 98.58,
+			"sections_pass": 24,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 1900
+		},
+		{
+			"sections_dept": "epse",
+			"sections_id": "449",
+			"sections_instructor": "grow, laura",
+			"sections_title": "educ stds autism",
+			"sections_uuid": "44816",
+			"sections_avg": 98.76,
+			"sections_pass": 17,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2012
+		},
+		{
+			"sections_dept": "epse",
+			"sections_id": "449",
+			"sections_instructor": "",
+			"sections_title": "educ stds autism",
+			"sections_uuid": "44817",
+			"sections_avg": 98.76,
+			"sections_pass": 17,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 1900
+		},
+		{
+			"sections_dept": "math",
+			"sections_id": "527",
+			"sections_instructor": "gomez, jose",
+			"sections_title": "algb topology i",
+			"sections_uuid": "5373",
+			"sections_avg": 99.78,
+			"sections_pass": 9,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2009
+		},
+		{
+			"sections_dept": "math",
+			"sections_id": "527",
+			"sections_instructor": "",
+			"sections_title": "algb topology i",
+			"sections_uuid": "5374",
+			"sections_avg": 99.78,
+			"sections_pass": 9,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 1900
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_id": "509",
+			"sections_instructor": "brew, nancy",
+			"sections_title": "cl pro prim care",
+			"sections_uuid": "15343",
+			"sections_avg": 98.71,
+			"sections_pass": 14,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2011
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_id": "509",
+			"sections_instructor": "",
+			"sections_title": "cl pro prim care",
+			"sections_uuid": "15344",
+			"sections_avg": 98.71,
+			"sections_pass": 14,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 1900
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_id": "578",
+			"sections_instructor": "",
+			"sections_title": "fam nrs pract",
+			"sections_uuid": "96250",
+			"sections_avg": 98.58,
+			"sections_pass": 12,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2010
+		},
+		{
+			"sections_dept": "nurs",
+			"sections_id": "578",
+			"sections_instructor": "",
+			"sections_title": "fam nrs pract",
+			"sections_uuid": "96251",
+			"sections_avg": 98.58,
+			"sections_pass": 12,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 1900
+		},
+		{
+			"sections_dept": "spph",
+			"sections_id": "300",
+			"sections_instructor": "frank, erica",
+			"sections_title": "work int health",
+			"sections_uuid": "65069",
+			"sections_avg": 98.98,
+			"sections_pass": 82,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 2015
+		},
+		{
+			"sections_dept": "spph",
+			"sections_id": "300",
+			"sections_instructor": "",
+			"sections_title": "work int health",
+			"sections_uuid": "65070",
+			"sections_avg": 98.98,
+			"sections_pass": 82,
+			"sections_fail": 0,
+			"sections_audit": 0,
+			"sections_year": 1900
+		}
+	]
+}

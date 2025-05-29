@@ -1,0 +1,13 @@
+{
+	"title": "referenced dataset empty string",
+	"input": {
+		"WHERE": {},
+		"OPTIONS": {
+			"COLUMNS": [
+				""
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

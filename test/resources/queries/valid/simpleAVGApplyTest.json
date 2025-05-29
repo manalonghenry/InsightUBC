@@ -1,0 +1,243 @@
+{
+	"title": "simpleAVGApplyTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "cpsc"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"overallAVG"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"overallAVG": {
+						"AVG": "sections_avg"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_title": "comptn, progrmng",
+			"overallAVG": 74.41
+		},
+		{
+			"sections_title": "model comptn",
+			"overallAVG": 75.54
+		},
+		{
+			"sections_title": "sftwr constructn",
+			"overallAVG": 73.99
+		},
+		{
+			"sections_title": "intro comp sys",
+			"overallAVG": 74.04
+		},
+		{
+			"sections_title": "basic alg&data",
+			"overallAVG": 74.49
+		},
+		{
+			"sections_title": "dta&alg elec eng",
+			"overallAVG": 74.46
+		},
+		{
+			"sections_title": "basics comp syst",
+			"overallAVG": 69.17
+		},
+		{
+			"sections_title": "comptng life sci",
+			"overallAVG": 81.84
+		},
+		{
+			"sections_title": "num comp alg prb",
+			"overallAVG": 75.51
+		},
+		{
+			"sections_title": "num approx/discr",
+			"overallAVG": 72.76
+		},
+		{
+			"sections_title": "intr rel databse",
+			"overallAVG": 76.3
+		},
+		{
+			"sections_title": "intr sftwr eng",
+			"overallAVG": 78.25
+		},
+		{
+			"sections_title": "programmng langs",
+			"overallAVG": 77.25
+		},
+		{
+			"sections_title": "func & logic prg",
+			"overallAVG": 80.71
+		},
+		{
+			"sections_title": "comp hard&os",
+			"overallAVG": 73.98
+		},
+		{
+			"sections_title": "comp graphics",
+			"overallAVG": 76.78
+		},
+		{
+			"sections_title": "internet comp",
+			"overallAVG": 72.57
+		},
+		{
+			"sections_title": "softwr eng proj",
+			"overallAVG": 84.52
+		},
+		{
+			"sections_title": "intr alg dsgn&an",
+			"overallAVG": 70.09
+		},
+		{
+			"sections_title": "artificial intel",
+			"overallAVG": 73.11
+		},
+		{
+			"sections_title": "machine lrn mine",
+			"overallAVG": 75.69
+		},
+		{
+			"sections_title": "hum-com interact",
+			"overallAVG": 78.47
+		},
+		{
+			"sections_title": "adv rel databse",
+			"overallAVG": 74.32
+		},
+		{
+			"sections_title": "adv software eng",
+			"overallAVG": 77.11
+		},
+		{
+			"sections_title": "compiler constrc",
+			"overallAVG": 80.18
+		},
+		{
+			"sections_title": "adv opertng sysm",
+			"overallAVG": 70.93
+		},
+		{
+			"sections_title": "distrbt'd systms",
+			"overallAVG": 74.9
+		},
+		{
+			"sections_title": "parallel comput",
+			"overallAVG": 80.51
+		},
+		{
+			"sections_title": "adv alg dsgn&anl",
+			"overallAVG": 72.24
+		},
+		{
+			"sections_title": "theory comptg",
+			"overallAVG": 74.91
+		},
+		{
+			"sections_title": "intel systems",
+			"overallAVG": 73.01
+		},
+		{
+			"sections_title": "computer vision",
+			"overallAVG": 73.93
+		},
+		{
+			"sections_title": "comptr & society",
+			"overallAVG": 77.39
+		},
+		{
+			"sections_title": "hmn-cp interactn",
+			"overallAVG": 78.84
+		},
+		{
+			"sections_title": "alg in bioin",
+			"overallAVG": 80.86
+		},
+		{
+			"sections_title": "honours thesis",
+			"overallAVG": 90.38
+		},
+		{
+			"sections_title": "student seminar",
+			"overallAVG": 89.77
+		},
+		{
+			"sections_title": "fund alg dsgn&an",
+			"overallAVG": 83.96
+		},
+		{
+			"sections_title": "thry of automata",
+			"overallAVG": 89.77
+		},
+		{
+			"sections_title": "artif intell 1",
+			"overallAVG": 82.96
+		},
+		{
+			"sections_title": "computl ling 1",
+			"overallAVG": 88.08
+		},
+		{
+			"sections_title": "software eng",
+			"overallAVG": 87.44
+		},
+		{
+			"sections_title": "prog lang princ",
+			"overallAVG": 86.02
+		},
+		{
+			"sections_title": "intgrt sys desgn",
+			"overallAVG": 82.7
+		},
+		{
+			"sections_title": "comput robotics",
+			"overallAVG": 81.8
+		},
+		{
+			"sections_title": "para algs & arch",
+			"overallAVG": 85.06
+		},
+		{
+			"sections_title": "artif intell 2",
+			"overallAVG": 85.16
+		},
+		{
+			"sections_title": "comp comm protcl",
+			"overallAVG": 87.48
+		},
+		{
+			"sections_title": "machine learn i",
+			"overallAVG": 85.87
+		},
+		{
+			"sections_title": "phy user intfc",
+			"overallAVG": 85.78
+		},
+		{
+			"sections_title": "hmn-cmpt intract",
+			"overallAVG": 84.31
+		},
+		{
+			"sections_title": "info visualizatn",
+			"overallAVG": 88.58
+		},
+		{
+			"sections_title": "m.sc major essay",
+			"overallAVG": 85.75
+		}
+	]
+}

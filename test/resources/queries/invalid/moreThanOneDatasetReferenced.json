@@ -1,0 +1,14 @@
+{
+	"title": "more than one dataset referenced",
+	"input": {
+		"WHERE": {},
+		"OPTIONS": {
+			"COLUMNS": [
+				"section1_year",
+				"section2_year"
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

@@ -1,0 +1,30 @@
+{
+	"title": "contradictory and test",
+	"input": {
+		"WHERE": {
+			"AND": [
+				{
+					"NOT": {
+						"IS": {
+							"sections_instructor": "c*"
+						}
+					}
+				},
+				{
+					"IS": {
+						"sections_instructor": "c*"
+					}
+				}
+			]
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"sections_uuid"
+			],
+			"ORDER": "sections_dept"
+		}
+	},
+	"errorExpected": false,
+	"expected": []
+}

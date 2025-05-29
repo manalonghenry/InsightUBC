@@ -1,0 +1,17 @@
+{
+	"title": "scomparator mkey",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_avg": 2
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_year"
+			]
+		}
+	},
+	"errorExpected": true,
+	"expected": "InsightError"
+}

@@ -1,0 +1,95 @@
+{
+	"title": "countNonNumericNoOrderTest",
+	"input": {
+		"WHERE": {
+			"EQ": {
+				"sections_avg": 95
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_dept",
+				"countInstructor"
+			]
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_dept"
+			],
+			"APPLY": [
+				{
+					"countInstructor": {
+						"COUNT": "sections_instructor"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_dept": "bmeg",
+			"countInstructor": 2
+		},
+		{
+			"sections_dept": "cnps",
+			"countInstructor": 2
+		},
+		{
+			"sections_dept": "cpsc",
+			"countInstructor": 1
+		},
+		{
+			"sections_dept": "crwr",
+			"countInstructor": 6
+		},
+		{
+			"sections_dept": "econ",
+			"countInstructor": 2
+		},
+		{
+			"sections_dept": "edcp",
+			"countInstructor": 2
+		},
+		{
+			"sections_dept": "epse",
+			"countInstructor": 3
+		},
+		{
+			"sections_dept": "kin",
+			"countInstructor": 1
+		},
+		{
+			"sections_dept": "math",
+			"countInstructor": 1
+		},
+		{
+			"sections_dept": "mtrl",
+			"countInstructor": 2
+		},
+		{
+			"sections_dept": "musc",
+			"countInstructor": 2
+		},
+		{
+			"sections_dept": "nurs",
+			"countInstructor": 2
+		},
+		{
+			"sections_dept": "obst",
+			"countInstructor": 1
+		},
+		{
+			"sections_dept": "psyc",
+			"countInstructor": 2
+		},
+		{
+			"sections_dept": "rhsc",
+			"countInstructor": 1
+		},
+		{
+			"sections_dept": "sowk",
+			"countInstructor": 1
+		}
+	]
+}

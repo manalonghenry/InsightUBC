@@ -1,0 +1,424 @@
+{
+	"title": "sumPassGroupApplyTest",
+	"input": {
+		"WHERE": {
+			"IS": {
+				"sections_dept": "math"
+			}
+		},
+		"OPTIONS": {
+			"COLUMNS": [
+				"sections_title",
+				"sumCourse"
+			],
+			"ORDER": "sumCourse"
+		},
+		"TRANSFORMATIONS": {
+			"GROUP": [
+				"sections_title"
+			],
+			"APPLY": [
+				{
+					"sumCourse": {
+						"SUM": "sections_pass"
+					}
+				}
+			]
+		}
+	},
+	"errorExpected": false,
+	"expected": [
+		{
+			"sections_title": "asymp&prtb mthds",
+			"sumCourse": 10
+		},
+		{
+			"sections_title": "math electrophys",
+			"sumCourse": 22
+		},
+		{
+			"sections_title": "topics topology",
+			"sumCourse": 26
+		},
+		{
+			"sections_title": "complex analy i",
+			"sumCourse": 30
+		},
+		{
+			"sections_title": "ptl dif eqn flud",
+			"sumCourse": 34
+		},
+		{
+			"sections_title": "flds&galois thry",
+			"sumCourse": 42
+		},
+		{
+			"sections_title": "cnt tme stchastc",
+			"sumCourse": 48
+		},
+		{
+			"sections_title": "combinatorial op",
+			"sumCourse": 54
+		},
+		{
+			"sections_title": "complex fluids",
+			"sumCourse": 56
+		},
+		{
+			"sections_title": "tpcs algebra",
+			"sumCourse": 60
+		},
+		{
+			"sections_title": "intr dyn systems",
+			"sumCourse": 62
+		},
+		{
+			"sections_title": "intr mod diff ge",
+			"sumCourse": 66
+		},
+		{
+			"sections_title": "analyt num thry",
+			"sumCourse": 66
+		},
+		{
+			"sections_title": "elem number thry",
+			"sumCourse": 68
+		},
+		{
+			"sections_title": "harmonic anal i",
+			"sumCourse": 70
+		},
+		{
+			"sections_title": "pertrb diff equa",
+			"sumCourse": 70
+		},
+		{
+			"sections_title": "msc major essay",
+			"sumCourse": 76
+		},
+		{
+			"sections_title": "algebra ii",
+			"sumCourse": 84
+		},
+		{
+			"sections_title": "math rsrch&writn",
+			"sumCourse": 86
+		},
+		{
+			"sections_title": "complex analy",
+			"sumCourse": 86
+		},
+		{
+			"sections_title": "algb topology i",
+			"sumCourse": 86
+		},
+		{
+			"sections_title": "discrete math",
+			"sumCourse": 88
+		},
+		{
+			"sections_title": "algebra i",
+			"sumCourse": 96
+		},
+		{
+			"sections_title": "stochastic proc",
+			"sumCourse": 102
+		},
+		{
+			"sections_title": "functional analy",
+			"sumCourse": 104
+		},
+		{
+			"sections_title": "real analysis ii",
+			"sumCourse": 108
+		},
+		{
+			"sections_title": "probability ii",
+			"sumCourse": 112
+		},
+		{
+			"sections_title": "algb geometry i",
+			"sumCourse": 118
+		},
+		{
+			"sections_title": "diff geometry i",
+			"sumCourse": 120
+		},
+		{
+			"sections_title": "lie theory i",
+			"sumCourse": 120
+		},
+		{
+			"sections_title": "meas thry&integr",
+			"sumCourse": 122
+		},
+		{
+			"sections_title": "groups&fields",
+			"sumCourse": 126
+		},
+		{
+			"sections_title": "int rings&module",
+			"sumCourse": 128
+		},
+		{
+			"sections_title": "complex analysis",
+			"sumCourse": 128
+		},
+		{
+			"sections_title": "prt diff equa i",
+			"sumCourse": 130
+		},
+		{
+			"sections_title": "probability i",
+			"sumCourse": 146
+		},
+		{
+			"sections_title": "abstr linear alg",
+			"sumCourse": 158
+		},
+		{
+			"sections_title": "tpcs number thry",
+			"sumCourse": 162
+		},
+		{
+			"sections_title": "number theory",
+			"sumCourse": 162
+		},
+		{
+			"sections_title": "num anly prtl df",
+			"sumCourse": 172
+		},
+		{
+			"sections_title": "mod discr opt pr",
+			"sumCourse": 198
+		},
+		{
+			"sections_title": "mthds asymp anal",
+			"sumCourse": 210
+		},
+		{
+			"sections_title": "var & aprx mtds",
+			"sumCourse": 212
+		},
+		{
+			"sections_title": "real analysis i",
+			"sumCourse": 212
+		},
+		{
+			"sections_title": "opt grphs&netwks",
+			"sumCourse": 218
+		},
+		{
+			"sections_title": "probability",
+			"sumCourse": 240
+		},
+		{
+			"sections_title": "intr grp theory",
+			"sumCourse": 270
+		},
+		{
+			"sections_title": "algbr & cod thry",
+			"sumCourse": 284
+		},
+		{
+			"sections_title": "math modl in sci",
+			"sumCourse": 314
+		},
+		{
+			"sections_title": "green's func&var",
+			"sumCourse": 314
+		},
+		{
+			"sections_title": "intr algebra",
+			"sumCourse": 346
+		},
+		{
+			"sections_title": "adv calculus ii",
+			"sumCourse": 362
+		},
+		{
+			"sections_title": "num mthds dff eq",
+			"sumCourse": 380
+		},
+		{
+			"sections_title": "math demonstrtns",
+			"sumCourse": 460
+		},
+		{
+			"sections_title": "real variabls ii",
+			"sumCourse": 500
+		},
+		{
+			"sections_title": "appl nonln dy&ch",
+			"sumCourse": 504
+		},
+		{
+			"sections_title": "integral calculu",
+			"sumCourse": 618
+		},
+		{
+			"sections_title": "differ calculus",
+			"sumCourse": 661
+		},
+		{
+			"sections_title": "adv calculus i",
+			"sumCourse": 662
+		},
+		{
+			"sections_title": "apld complx anly",
+			"sumCourse": 776
+		},
+		{
+			"sections_title": "intro math compu",
+			"sumCourse": 868
+		},
+		{
+			"sections_title": "alg coding crypt",
+			"sumCourse": 940
+		},
+		{
+			"sections_title": "applied analysis",
+			"sumCourse": 944
+		},
+		{
+			"sections_title": "intro to math",
+			"sumCourse": 1087
+		},
+		{
+			"sections_title": "real variabls i",
+			"sumCourse": 1090
+		},
+		{
+			"sections_title": "euclidn geometry",
+			"sumCourse": 1104
+		},
+		{
+			"sections_title": "linear algebra i",
+			"sumCourse": 1106
+		},
+		{
+			"sections_title": "calculus survey",
+			"sumCourse": 1126
+		},
+		{
+			"sections_title": "prob phys app",
+			"sumCourse": 1238
+		},
+		{
+			"sections_title": "intr stoch proc",
+			"sumCourse": 1370
+		},
+		{
+			"sections_title": "intr number thry",
+			"sumCourse": 1482
+		},
+		{
+			"sections_title": "mltvar&vctr calc",
+			"sumCourse": 1586
+		},
+		{
+			"sections_title": "app part diff eq",
+			"sumCourse": 1658
+		},
+		{
+			"sections_title": "vctr calc el eng",
+			"sumCourse": 1762
+		},
+		{
+			"sections_title": "diff equations 2",
+			"sumCourse": 3058
+		},
+		{
+			"sections_title": "intr complex var",
+			"sumCourse": 3094
+		},
+		{
+			"sections_title": "diff calculus",
+			"sumCourse": 3568
+		},
+		{
+			"sections_title": "intr probability",
+			"sumCourse": 3582
+		},
+		{
+			"sections_title": "intro lin prog",
+			"sumCourse": 3668
+		},
+		{
+			"sections_title": "calculus iv",
+			"sumCourse": 4060
+		},
+		{
+			"sections_title": "appl linear algb",
+			"sumCourse": 4088
+		},
+		{
+			"sections_title": "partl diff equat",
+			"sumCourse": 4266
+		},
+		{
+			"sections_title": "math proof",
+			"sumCourse": 4702
+		},
+		{
+			"sections_title": "diff equations",
+			"sumCourse": 5038
+		},
+		{
+			"sections_title": "elem diff eq i",
+			"sumCourse": 5308
+		},
+		{
+			"sections_title": "ord diff equtns",
+			"sumCourse": 6882
+		},
+		{
+			"sections_title": "dif calc phys ap",
+			"sumCourse": 7628
+		},
+		{
+			"sections_title": "int calc ap lf s",
+			"sumCourse": 10330
+		},
+		{
+			"sections_title": "calc socsci comm",
+			"sumCourse": 11010
+		},
+		{
+			"sections_title": "df calc app lf s",
+			"sumCourse": 11126
+		},
+		{
+			"sections_title": "linear systems",
+			"sumCourse": 11248
+		},
+		{
+			"sections_title": "multivrbl calc",
+			"sumCourse": 12214
+		},
+		{
+			"sections_title": "matrix algebra",
+			"sumCourse": 12706
+		},
+		{
+			"sections_title": "dff calc ap c&ss",
+			"sumCourse": 15644
+		},
+		{
+			"sections_title": "calculus 3",
+			"sumCourse": 17522
+		},
+		{
+			"sections_title": "int calc ap c&ss",
+			"sumCourse": 17976
+		},
+		{
+			"sections_title": "df calc ap ph sc",
+			"sumCourse": 20174
+		},
+		{
+			"sections_title": "int calc ap ph s",
+			"sumCourse": 21266
+		}
+	]
+}
